@@ -9,4 +9,5 @@ div {
 
 span#id {
 	position: relative;
+	color: red;
 }
